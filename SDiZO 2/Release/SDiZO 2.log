@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  dsstruct.cpp
+  lgraph.cpp
+  mgraph.cpp
+  mstree.cpp
+  queue.cpp
+  SDiZO 2.cpp
+c:\users\kamil\documents\visual studio 2017\projects\sdizo 2\sdizo 2\sdizo 2.cpp(25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\kamil\documents\visual studio 2017\projects\sdizo 2\sdizo 2\sdizo 2.cpp(29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+c:\users\kamil\documents\visual studio 2017\projects\sdizo 2\sdizo 2\lgraph.cpp(30): warning C4715: 'lgraph::BF': not all control paths return a value
+c:\users\kamil\documents\visual studio 2017\projects\sdizo 2\sdizo 2\mgraph.cpp(31): warning C4715: 'mgraph::BF': not all control paths return a value
+  All 228 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SDiZO 2.vcxproj -> C:\Users\Kamil\Documents\Visual Studio 2017\Projects\SDiZO 2\Release\SDiZO 2.exe

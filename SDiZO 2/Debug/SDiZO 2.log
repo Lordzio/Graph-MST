@@ -1,0 +1,5 @@
+﻿  SDiZO 2.cpp
+c:\users\kamil\documents\visual studio 2017\projects\sdizo 2\sdizo 2\sdizo 2.cpp(25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\kamil\documents\visual studio 2017\projects\sdizo 2\sdizo 2\sdizo 2.cpp(29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SDiZO 2.vcxproj -> C:\Users\Kamil\documents\visual studio 2017\Projects\SDiZO 2\Debug\SDiZO 2.exe
+  SDiZO 2.vcxproj -> C:\Users\Kamil\documents\visual studio 2017\Projects\SDiZO 2\Debug\SDiZO 2.pdb (Partial PDB)
